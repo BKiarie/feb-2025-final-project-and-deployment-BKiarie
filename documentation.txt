@@ -141,28 +141,5 @@ project/
 - Edge (latest)
 - Opera (latest)
 
-## Setup Instructions
-1. Clone repository
-2. Open index.html in browser
-3. No build process required
-4. All assets are locally hosted
-
-## Maintenance
-- Regular updates for content
-- Browser compatibility checks
-- Performance monitoring
-- Security updates
-
-## Known Issues
-1. Dropdown menu mobile responsiveness
-2. Image loading optimization needed
-3. Form validation enhancement required
-
-## Future Enhancements
-1. Add blog section
-2. Implement CMS integration
-3. Add portfolio filtering
-4. Enhance accessibility
-5. Add multi-language support
 
 For additional support or questions, contact: kiariebrian8@gmail.com
